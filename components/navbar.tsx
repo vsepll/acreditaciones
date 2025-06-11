@@ -34,7 +34,7 @@ export default function Navbar() {
             href="/"
             className="flex items-center space-x-2 text-2xl font-bold text-burgundy-dark hover:text-burgundy transition-colors"
           >
-            <Ticket size={32} />
+            <img src="/favicon.ico" alt="Autoentrada Logo" width={32} height={32} />
             <span className="tracking-tight">Autoentrada</span>
           </Link>
 
